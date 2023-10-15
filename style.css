@@ -214,9 +214,8 @@ section {
 .swiper {
   width: 180%;
   height: auto;
-  top: -80px;
+  top: -50px;
   padding-bottom: 50px;
-  
 }
 
 .swiper-slide {
@@ -335,7 +334,7 @@ section {
   justify-content: center;
 }
 .footer .footer {
-	min-height: 200px;
+	min-height: 250px;
 	flex-direction: column;
 }
 .footer h2 {
