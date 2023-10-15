@@ -252,7 +252,7 @@ section {
 
 .swiper-slide .button{
   margin-bottom: -50px;
-  background: rgba(0, 0, 0, .3);
+  background: rgba(0, 0, 0, .5);
   padding: 10px;
   border-radius: 20px;
   font-size: 1.8rem;
@@ -423,15 +423,18 @@ section {
   .swiper {
     width: 100%;
     height: auto;
+    top: -30px;
   }
 
   .swiper-slide {
-    width: 430px;
-    height: 430px;
+    width: 420px;
+    height: 420px;
   }
 
   .swiper-slide .button{
-    margin-bottom: -46px;
+    margin-bottom: -45px;
+    font-size: 1.8rem;
+    text-align: center;
   }
 
   .swiper-3d .swiper-slide-shadow-left,

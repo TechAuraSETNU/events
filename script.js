@@ -9,10 +9,10 @@ var swiper = new Swiper(".swiper", {
     rotate: 0,
     stretch: 0,
     depth: 75,
-    modifier: 2,
+    modifier: 0,
     slideShadows: true
   },
-  spaceBetween: 60,
+  spaceBetween: 30,
   loop: true,
   pagination: {
     el: ".swiper-pagination",
