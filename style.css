@@ -214,7 +214,7 @@ section {
 .swiper {
   width: 180%;
   height: auto;
-  top: 0px;
+  top: -100px;
   padding-bottom: 20px;
 }
 
@@ -428,7 +428,6 @@ section {
   .swiper-slide {
     width: 430px;
     height: 430px;
-    margin-top: -50px;
   }
 
   .swiper-slide .button{
