@@ -186,7 +186,8 @@ section {
 .swiper {
   width: 180%;
   height: auto;
-  top: -50px;
+  top: -60px;
+  padding: 30px;
 }
 
 .swiper-slide {
@@ -309,7 +310,7 @@ section {
 .footer h2 {
 	color: white;
 	font-weight: bold;
-	font-size: 1.9rem;
+	font-size: 1.5rem;
 	letter-spacing: .1rem;
 	margin-top: 0px;
   align-self: center;
@@ -325,8 +326,8 @@ section {
 .footer .social-item img {
 	filter: grayscale(1);
 	transition: 0.3s ease filter;
-  height: 75px;
-	width: 75px;
+  height: 55px;
+	width: 55px;
 }
 .footer .social-item:hover img {
 	filter: grayscale(0);
